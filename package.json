@@ -1,0 +1,17 @@
+{
+    "name": "lab3",
+    "version": "1.0.0",
+    "description": "node app ",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:minhquoc13/group2-lab3.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {},
+    "homepage": ""
+}
